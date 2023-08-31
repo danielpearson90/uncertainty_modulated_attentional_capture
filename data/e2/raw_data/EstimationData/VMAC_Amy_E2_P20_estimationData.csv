@@ -1,0 +1,4 @@
+trial,testType,targetLoc,distractLoc,estimate,subnum
+1,2,4,3,90,20
+2,3,4,3,50,20
+3,1,4,3,100,20
